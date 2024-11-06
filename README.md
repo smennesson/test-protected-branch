@@ -9,3 +9,5 @@ Second commit
 Third commit - fixed
 
 Conflict commit
+
+Fourth commit
