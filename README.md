@@ -2,4 +2,4 @@
 
 With first commit
 
-Test push on RC branc
+Add fix to v0.1.0-rc
