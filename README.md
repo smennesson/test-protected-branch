@@ -6,4 +6,4 @@ Add fix to v0.1.0-rc
 
 Second commit
 
-Third commit
+Third commit - fixed
